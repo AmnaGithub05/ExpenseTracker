@@ -1,6 +1,8 @@
 # ExpenseTracker
 
 A minimal JavaScript expense tracking utility.
+<img width="412" height="438" alt="Screenshot 2025-12-28 195147" src="https://github.com/user-attachments/assets/683a2213-7248-4fed-8bc9-fac9bd82d1e4" />
+
 
 ## Overview
 
